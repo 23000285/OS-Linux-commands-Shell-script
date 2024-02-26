@@ -43,7 +43,7 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
-
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-02-26%2020-59-05.png
 
 cat < file2
 ## OUTPUT
