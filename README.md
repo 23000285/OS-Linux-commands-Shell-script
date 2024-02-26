@@ -15,7 +15,7 @@ Navigate to any Linux environment installed on the system or installed inside a 
 ### Step 2:
 
 Execute the following commands
-
+![alt text](<Screenshot from 2024-02-26 20-07-10.png>)
 ### Step 3:
 
 Testing the commands for the desired output. 
