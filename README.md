@@ -23,7 +23,7 @@ Testing the commands for the desired output.
 # COMMANDS:
 ### Create the following files file1, file2 as follows:
 cat > file1
-![Screenshot from 2024-02-26 21-19-42](https://github.com/23000285/OS-Linux-commands-Shell-script/assets/138970859/c4aef191-6f74-4ab4-a4b6-bedfd69159f4)
+
 
 chanchal singhvi
 c.k. shukla
